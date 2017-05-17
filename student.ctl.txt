@@ -1,0 +1,6 @@
+LOAD DATA
+INFILE STUDENT.csv
+APPEND INTO TABLE STUDENT
+FIELDS TERMINATED BY ',' optionally enclosed by ''''
+TRAILING NULLCOLS
+(name,student_number,class,major)

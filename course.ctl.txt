@@ -1,0 +1,6 @@
+LOAD DATA
+INFILE COURSE.csv
+APPEND INTO TABLE COURSE
+FIELDS TERMINATED BY ',' 
+TRAILING NULLCOLS
+(course_name,course_number,credit_hours,department)

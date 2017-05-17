@@ -1,0 +1,6 @@
+LOAD DATA
+INFILE SECTION.csv
+APPEND INTO TABLE SECTION
+FIELDS TERMINATED BY ',' 
+TRAILING NULLCOLS
+(section_identifier,course_number,semester,year,instructor)

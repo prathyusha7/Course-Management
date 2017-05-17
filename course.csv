@@ -1,0 +1,20 @@
+database,c1,3,CS
+algorithms,c2,4,CS
+SDN,c3,2,CS
+neural networks,c4,3,CS
+machine learning,c5,4,CS
+OOAD,c6,3,CS
+big data,c7,3,CS
+statistics,m1,4,MATH
+probability,m2,2,MATH
+discrete structures,m3,4,MATH
+algebra,m4,4,MATH
+trignometry,m5,3,MATH
+geometry,m6,3,MATH
+mathematical methods,m7,2,MATH
+botany,b1,2,BIOLOGY
+zoology,b2,2,BIOLOGY
+cell biology,b3,3,BIOLOGY
+molecular biology,b4,4,BIOLOGY 
+bio engineering,b5,3,BIOLOGY
+anatomy,b6,3,BIOLOGY
